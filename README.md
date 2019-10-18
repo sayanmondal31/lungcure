@@ -1,4 +1,4 @@
-# lungcure
+# lungcure 
 
 lungcure is a fully functional and free lung disease detection web app with payment integration.
 
